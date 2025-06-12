@@ -102,7 +102,7 @@
             id="image-upload"
             name="image-upload"
             type="file"
-            accept="image/*"
+            accept=".jpg, .jpeg, .png, .gif, .svg, .doc, .docx, .pdf, .txt, .rtf, .xls, .xlsx, .ppt, .pptx, .zip, .gz, .rar, .mp4, .avi, .mov, .wmv, .flv, .mp3, .wav, .aiff"
             class="sr-only"
             onchange={onChange}
           />
