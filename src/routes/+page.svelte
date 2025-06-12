@@ -25,7 +25,7 @@
     Deploy your own to Vercel
   </a>
   <h1
-    class="pt-4 pb-8 bg-gradient-to-br from-black via-[#171717] to-[#575757] bg-clip-text text-center text-xl font-medium tracking-tight text-transparent md:text-7xl"
+    class="pt-4 pb-8 bg-gradient-to-br from-black via-[#171717] to-[#575757] bg-clip-text text-center text-xl font-medium tracking-tight text-transparent md:text-xl"
   >
     Downtown Nashville Nissan
   </h1>
