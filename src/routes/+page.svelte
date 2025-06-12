@@ -25,9 +25,15 @@
     Deploy your own to Vercel
   </a>
   <h1
+    class="pt-4 pb-8 bg-gradient-to-br from-black via-[#171717] to-[#575757] bg-clip-text text-center text-xl font-medium tracking-tight text-transparent md:text-7xl"
+  >
+    Downtown Nashville Nissan
+  </h1>
+
+  <h1
     class="pt-4 pb-8 bg-gradient-to-br from-black via-[#171717] to-[#575757] bg-clip-text text-center text-4xl font-medium tracking-tight text-transparent md:text-7xl"
   >
-    Blob on Vercel
+    Secure File Share
   </h1>
   <div
     class="flex flex-col items-center w-full max-w-xl p-12 mx-auto rounded-lg shadow-xl dark:bg-white/10 bg-white/30 ring-1 ring-gray-900/5 backdrop-blur-lg"
